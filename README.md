@@ -25,3 +25,7 @@ The dataset used in this project contains information about passengers on the Ti
    ```bash
    git clone https://github.com/Bhargav-Dasari/titanic-survival-prediction.git
 
+2. Train Data & Test Data.
+   This is represented by two files in the repository named test.csv, train.csv
+
+
