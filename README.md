@@ -23,5 +23,5 @@ The dataset used in this project contains information about passengers on the Ti
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/bhargav-dasari/titanic-survival-prediction.git
+   git clone https://github.com/Bhargav-Dasari/titanic-survival-prediction.git
 
